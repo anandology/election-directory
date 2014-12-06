@@ -1,0 +1,699 @@
+S01	11	11-Srikakulam
+S01	12	12-Vizianagaram
+S01	13	13-Visakhapatnam
+S01	14	14-East Godavari
+S01	15	15-West Godavari
+S01	16	16-Krishna
+S01	17	17-Guntur
+S01	18	18-Prakasam
+S01	19	19-Nellore
+S01	20	20-Kadapa
+S01	21	21-Kurnool
+S01	22	22-Anantapur
+S01	23	23-Chittoor
+S02	1	1-TAWANG
+S02	10	10-EAST SIANG
+S02	11	11-DIBANG VALLEY
+S02	12	12-LOWER DIBANG VALLEY
+S02	13	13-LOHIT
+S02	14	14-ANJAW
+S02	15	15-CHANGLANG
+S02	16	16-TIRAP
+S02	17	17-KURUNG KUMEY
+S02	2	2-WEST KAMENG
+S02	3	3-EAST KAMENG
+S02	4	4-PAPUM PARE
+S02	5	5-LOWER SUBANSIRI
+S02	6	6-UPPER SUBANSIRI
+S02	7	7-WEST SIANG (Along)
+S02	8	8-WEST SIANG (Mechuka)
+S02	9	9-UPPER SIANG
+S03	1	1-Karimganj
+S03	10	10-Bilasipara
+S03	11	11-Gossaigaon
+S03	12	12-Kokrajhar
+S03	13	13-Bongaigaon
+S03	14	14-Bijni
+S03	15	15-North Salmara
+S03	16	16-Goalpara
+S03	17	17-Barpeta
+S03	18	18-Bajali
+S03	19	19-Kamrup
+S03	2	2-Hailakandi
+S03	20	20-Rangiya
+S03	21	21-Kamrup Metro
+S03	22	22-Nalbari
+S03	23	23-Udalguri
+S03	24	24-Mangaldoi (Darrang)
+S03	25	25-Tezpur
+S03	26	26-Biswanath Chariali
+S03	27	27-Gohpur
+S03	28	28-Morigaon
+S03	29	29-Nagaon
+S03	3	3-Cachar
+S03	30	30-Kaliabor
+S03	31	31-Hojai
+S03	32	32-Bokakhat
+S03	33	33-Dhansiri
+S03	34	34-Golaghat
+S03	35	35-Jorhat
+S03	36	36-Titabor
+S03	37	37-Majuli
+S03	38	38-Sivasagar
+S03	39	39-Nazira
+S03	4	4-Dima Hasao
+S03	40	40-Charaideo (Sonari)
+S03	41	41-Lakhimpur
+S03	42	42-Dhakuakhana
+S03	43	43-Dhemaji
+S03	44	44-Jonai
+S03	45	45-Dibrugarh
+S03	46	46-Tinsukia
+S03	47	47-Margherita
+S03	48	48-Sadiya
+S03	49	49-Chirang
+S03	5	5-Bokajan
+S03	50	50-Baksa
+S03	6	6-Diphu
+S03	7	7-Hamren
+S03	8	8-South Salmara
+S03	9	9-Dhubri
+S04	1	1-Paschim Champaran
+S04	10	10-Katihar
+S04	11	11-Madhepura
+S04	12	12-Saharsa
+S04	13	13-Darbhanga
+S04	14	14-Muzaffarpur
+S04	15	15-Gopalganj
+S04	16	16-Siwan
+S04	17	17-Saran
+S04	18	18-Vaishali
+S04	19	19-Samastipur
+S04	2	2-Purvi Champaran
+S04	20	20-Begusarai
+S04	21	21-Khagaria
+S04	22	22-Bhagalpur
+S04	23	23-Banka
+S04	24	24-Munger
+S04	25	25-Lakhisarai
+S04	26	26-Sheikhpura
+S04	27	27-Nalanda
+S04	28	28-Patna
+S04	29	29-Bhojpur
+S04	3	3-Sheohar
+S04	30	30-Buxar
+S04	31	31-Kaimur (Bhabua)
+S04	32	32-Rohtas
+S04	33	33-Arwal
+S04	34	34-Jehanabad
+S04	35	35-Aurangabad
+S04	36	36-Gaya
+S04	37	37-Nawada
+S04	38	38-Jamui
+S04	4	4-Sitamarhi
+S04	5	5-Madhubani
+S04	6	6-Supaul
+S04	7	7-Araria
+S04	8	8-Kishanganj
+S04	9	9-Purnia
+S05	1	1-North Goa
+S05	2	2-South Goa
+S06	1	1-Kachchh
+S06	10	10-Jamnagar
+S06	11	11-Porbandar
+S06	12	12-Junagadh
+S06	13	13-Amreli
+S06	14	14-Bhavnagar
+S06	15	15-Anand
+S06	16	16-Kheda
+S06	17	17-Panchmahal
+S06	18	18-Dahod
+S06	19	19-Vadodara
+S06	2	2-Banaskantha
+S06	20	20-Narmada
+S06	21	21-Bharuch
+S06	22	22-Surat
+S06	23	23-Dangs
+S06	24	24-Navsari
+S06	25	25-Valsad
+S06	26	26-TAPI
+S06	27	27-Arvalli
+S06	28	28-Morbi
+S06	29	29-Devbhumi Dwarka
+S06	3	3-Patan
+S06	30	30-Gir Somnath
+S06	31	31-Botad
+S06	32	32-Mahisagar
+S06	33	33-Chhotaudepur
+S06	4	4-Mahesana
+S06	5	5-Sabarkantha
+S06	6	6-Gandhinagar
+S06	7	7-Ahmedabad
+S06	8	8-Surendranagar
+S06	9	9-Rajkot
+S07	1	1-Panchkula
+S07	10	10-Fatehabad
+S07	11	11-Sirsa
+S07	12	12-Hisar
+S07	13	13-Bhiwani
+S07	14	14-Rohtak
+S07	15	15-Jhajjar
+S07	16	16-Mahendragarh
+S07	17	17-Rewari
+S07	18	18-Gurgaon
+S07	19	19-Faridabad
+S07	2	2-Ambala
+S07	20	20-Mewat
+S07	21	21-Palwal
+S07	3	3-Yamunanagar
+S07	4	4-Kurukshetra
+S07	5	5-Kaithal
+S07	6	6-Karnal
+S07	7	7-Panipat
+S07	8	8-Sonipat
+S07	9	9-Jind
+S08	1	1-CHAMBA
+S08	10	10-SIRMOUR
+S08	11	11-SHIMLA
+S08	12	12-KINNAUR
+S08	2	2-KANGRA
+S08	3	3-LAHAUL & SPITI
+S08	4	4-KULLU
+S08	5	5-MANDI
+S08	6	6-HAMIRPUR
+S08	7	7-UNA
+S08	8	8-BILASPUR
+S08	9	9-SOLAN
+S09	1	1-KUPWARA
+S09	10	10-UDHAMPUR
+S09	11	11-KATHUA
+S09	12	12-JAMMU
+S09	13	13-RAJAURI
+S09	14	14-POONCH
+S09	15	15-BANDIPUR
+S09	16	16-GANDERBAL
+S09	17	17-SHOPIAN
+S09	18	18-KULGAM
+S09	19	19-RAMBAN
+S09	2	2-BARAMULLA
+S09	20	20-KISHTWAR
+S09	21	21-REASI
+S09	22	22-SAMBA
+S09	3	3-SRINAGAR
+S09	4	4-BUDGAM
+S09	5	5-PULWAMA
+S09	6	6-ANANTNAG
+S09	7	7-LEH
+S09	8	8-KARGIL
+S09	9	9-DODA
+S10	1	1-BELGAUM
+S10	10	10-UTTARA KANNADA
+S10	11	11-HAVERI
+S10	12	12-BELLARY
+S10	13	13-CHITRADURGA
+S10	14	14-DAVANGERE
+S10	15	15-SHIMOGA
+S10	16	16-UDUPI
+S10	17	17-CHIKMAGALUR
+S10	18	18-TUMKUR
+S10	19	19-CHIKKABALLAPUR
+S10	2	2-BAGALKOT
+S10	20	20-KOLAR
+S10	22	22-BANGALORE RURAL
+S10	23	23-RAMANAGARAM
+S10	24	24-MANDYA
+S10	25	25-HASSAN
+S10	26	26-DAKSHINA KANNADA
+S10	27	27-KODAGU
+S10	28	28-MYSORE
+S10	29	29-CHAMARAJNAGAR
+S10	3	3-BIJAPUR
+S10	31	31-B.B.M.P(CENTRAL)
+S10	32	32-B.B.M.P(NORTH)
+S10	33	33-B.B.M.P(SOUTH)
+S10	34	34-BANGALORE URBAN
+S10	35	35-YADGIR
+S10	4	4-GULBARGA
+S10	5	5-BIDAR
+S10	6	6-RAICHUR
+S10	7	7-KOPPAL
+S10	8	8-GADAG
+S10	9	9-DHARWAD
+S11	1	1-Kasaragod
+S11	10	10-Kottayam
+S11	11	11-Alappuzha
+S11	12	12-Pathanamthitta
+S11	13	13-Kollam
+S11	14	14-Thiruvananthapuram
+S11	2	2-Kannur
+S11	3	3-Wayanad
+S11	4	4-Kozhikode
+S11	5	5-Malappuram
+S11	6	6-Palakkad
+S11	7	7-Thrissur
+S11	8	8-Ernakulam
+S11	9	9-Idukki
+S12	1	1-Sheopur
+S12	10	10-Tikamgarh
+S12	11	11-Chhatarpur
+S12	12	12-Damoh
+S12	13	13-Panna
+S12	14	14-Satna
+S12	15	15-Rewa
+S12	16	16-Sidhi
+S12	17	17-Singrauli
+S12	18	18-Shahdol
+S12	19	19-Anuppur
+S12	2	2-Morena
+S12	20	20-Umaria
+S12	21	21-Katni
+S12	22	22-Jabalpur
+S12	23	23-Dindori
+S12	24	24-Mandla
+S12	25	25-Balaghat
+S12	26	26-Seoni
+S12	27	27-Narsingpur
+S12	28	28-Chhindwara
+S12	29	29-Betul
+S12	3	3-Bhind
+S12	30	30-Harda
+S12	31	31-Hoshangabad
+S12	32	32-Raisen
+S12	33	33-Vidisha
+S12	34	34-Bhopal
+S12	35	35-Sehore
+S12	36	36-Rajgarh
+S12	37	37-Shajapur
+S12	38	38-Dewas
+S12	39	39-Khandwa
+S12	4	4-Gwalior
+S12	40	40-Burhanpur
+S12	41	41-Khargone
+S12	42	42-Barwani
+S12	43	43-Alirajpur
+S12	44	44-Jhabua
+S12	45	45-Dhar
+S12	46	46-Indore
+S12	47	47-Ujjain
+S12	48	48-Ratlam
+S12	49	49-Mandsour
+S12	5	5-Datia
+S12	50	50-Neemuch
+S12	51	51-Agar Malwa
+S12	6	6-Shivpuri
+S12	7	7-Guna
+S12	8	8-Ashok Nagar
+S12	9	9-Sagar
+S13	1	1-Nandurabar
+S13	10	10-Bhandara
+S13	11	11-Gondiya
+S13	12	12-Gadchiroli
+S13	13	13-Chandrapur
+S13	14	14-Yavatmal
+S13	15	15-Nanded
+S13	16	16-Hingoli
+S13	17	17-Parbhani
+S13	18	18-Jalna
+S13	19	19-Aurangabad
+S13	2	2-Dhule
+S13	20	20-Nashik
+S13	21	21-Thane
+S13	22	22-Mumbai Suburban
+S13	23	23-Mumbai City
+S13	24	24-Raigad
+S13	25	25-Pune
+S13	26	26-Ahmednagar
+S13	27	27-Beed
+S13	28	28-Latur
+S13	29	29-Osmanabad
+S13	3	3-Jalgaon
+S13	30	30-Solapur
+S13	31	31-Satara
+S13	32	32-Ratnagiri
+S13	33	33-Sindhudurg
+S13	34	34-Kolhapur
+S13	35	35-Sangli
+S13	36	36-Palghar
+S13	4	4-Buldhana
+S13	5	5-Akola
+S13	6	6-Washim
+S13	7	7-Amravati
+S13	8	8-Wardha
+S13	9	9-Nagpur
+S14	1	1-Imphal West
+S14	2	2-Imphal East
+S14	3	3-Bishnupur
+S14	4	4-Thoubal
+S14	5	5-Chandel
+S14	6	6-Ukhrul
+S14	7	7-Senapati
+S14	8	8-Tamenglong
+S14	9	9-Churachandpur
+S15	1	1-WEST JAINTIA HILLS
+S15	10	10-NORTH GARO HILLS
+S15	11	11-SOUTH WEST GARO HILLS
+S15	2	2-RI BHOI
+S15	3	3-EAST KHASI HILLS
+S15	4	4-WEST KHASI HILLS
+S15	5	5-EAST GARO HILLS
+S15	6	6-WEST GARO HILLS
+S15	7	7-SOUTH GARO HILLS
+S15	8	8-EAST JAINTIA HILLS
+S15	9	9-SOUTH WEST KHASI HILLS
+S16	1	1-MAMIT
+S16	2	2-KOLASIB
+S16	3	3-AIZAWL
+S16	4	4-CHAMPHAI
+S16	5	5-SERCHHIP
+S16	6	6-LUNGLEI
+S16	7	7-LAWNGTLAI
+S16	8	8-SAIHA
+S17	1	1-Dimapur
+S17	10	10-Longleng
+S17	11	11-Tuensang
+S17	12	12-Kiphire
+S17	2	2-Peren
+S17	3	3-Kohima
+S17	4	4-Pughoboto
+S17	5	5-Phek
+S17	6	6-Mokokchung
+S17	7	7-Zunheboto
+S17	8	8-Wokha
+S17	9	9-Mon
+S18	1	1-Baragarh
+S18	10	10-Jajpur
+S18	11	11-Dhenkanal
+S18	12	12-Angul
+S18	13	13-Subaranapur
+S18	14	14-Bolangir
+S18	15	15-Nuapada
+S18	16	16-Nowrangpur
+S18	17	17-Kalahandi
+S18	18	18-Kandhamal
+S18	19	19-Boudh
+S18	2	2-Jharsuguda
+S18	20	20-Cuttack
+S18	21	21-Kendarapara
+S18	22	22-Jagatsinghpur
+S18	23	23-Puri
+S18	24	24-Khurda
+S18	25	25-Nayagarh
+S18	26	26-Ganjam
+S18	27	27-Gajapati
+S18	28	28-Rayagada
+S18	29	29-Koraput
+S18	3	3-Sundargarh
+S18	30	30-Malkangiri
+S18	4	4-Sambalpur
+S18	5	5-Deogarh
+S18	6	6-Keonjhar
+S18	7	7-Mayurabhanja
+S18	8	8-Balasore
+S18	9	9-Bhadrak
+S19	1	1-Gurdaspur
+S19	10	10-Fatehgarh Sahib
+S19	11	11-Ludhiana
+S19	12	12-Moga
+S19	13	13-Firozpur
+S19	14	14-Muktsar
+S19	15	15-Faridkot
+S19	16	16-Bathinda
+S19	17	17-Mansa
+S19	18	18-Sangrur
+S19	19	19-Barnala
+S19	2	2-Amritsar
+S19	20	20-Patiala
+S19	21	21-Pathankot
+S19	22	22-Fazilka
+S19	3	3-TarnTaran
+S19	4	4-Kapurthala
+S19	5	5-Jalandhar
+S19	6	6-Hoshiarpur
+S19	7	7-Shahid Bhagat Singh Nagar
+S19	8	8-Rupnagar
+S19	9	9-Shahibzada Ajit Singh Nagar
+S20	1	1-AJMER
+S20	10	10-CHITTORGARH
+S20	11	11-CHURU
+S20	12	12-DAUSA
+S20	13	13-DHOLPUR
+S20	14	14-DUNGARPUR
+S20	15	15-GANGANAGAR
+S20	16	16-HANUMANGARH
+S20	17	17-JAIPUR
+S20	18	18-JAISALMER
+S20	19	19-JALORE
+S20	2	2-ALWAR
+S20	20	20-JHALAWAR
+S20	21	21-JHUNJHUNU
+S20	22	22-JODHPUR
+S20	23	23-KARAULI
+S20	24	24-KOTA
+S20	25	25-NAGAUR
+S20	26	26-PALI
+S20	27	27-PRATAPGARH
+S20	28	28-RAJSAMAND
+S20	29	29-SAWAI MADHOPUR
+S20	3	3-BANSWARA
+S20	30	30-SIKAR
+S20	31	31-SIROHI
+S20	32	32-TONK
+S20	33	33-UDAIPUR
+S20	4	4-BARAN
+S20	5	5-BARMER
+S20	6	6-BHARATPUR
+S20	7	7-BHILWARA
+S20	8	8-BIKANER
+S20	9	9-BUNDI
+S21	1	1-WEST DISTRICT
+S21	2	2-SOUTH DISTRICT
+S21	3	3-EAST DISTRICT
+S21	4	4-NORTH DISTRICT
+S22	1	1-THIRUVALLUR
+S22	10	10-NAMAKKAL
+S22	11	11-ERODE
+S22	12	12-THE NILGIRIS
+S22	13	13-COIMBATORE
+S22	14	14-DINDIGUL
+S22	15	15-KARUR
+S22	16	16-TIRUCHIRAPPALLI
+S22	17	17-PERAMBALUR
+S22	18	18-CUDDALORE
+S22	19	19-NAGAPATTINAM
+S22	2	2-CHENNAI
+S22	20	20-THIRUVARUR
+S22	21	21-THANJAVUR
+S22	22	22-PUDUKKOTTAI
+S22	23	23-SIVAGANGA
+S22	24	24-MADURAI
+S22	25	25-THENI
+S22	26	26-VIRDHUNAGAR
+S22	27	27-RAMANATHAPURAM
+S22	28	28-THOOTHUKKUDI
+S22	29	29-TIRUNELVELI
+S22	3	3-KANCHEEPURAM
+S22	30	30-KANNIYAKUMARI
+S22	31	31-ARIYALUR
+S22	32	32-TIRUPPUR
+S22	4	4-VELLORE
+S22	5	5-KRISHNAGIRI
+S22	6	6-DHARMAPURI
+S22	7	7-TIRUVANNAMALAI
+S22	8	8-VILLUPURAM
+S22	9	9-SALEM
+S23	1	1-West Tripura
+S23	2	2-Sepahijala
+S23	3	3-Khowai
+S23	4	4-Gomati
+S23	5	5-South Tripura
+S23	6	6-Dhalai
+S23	7	7-Unakoti
+S23	8	8-North Tripura
+S24	1	1-Saharanpur
+S24	10	10-Mathura
+S24	11	11-Firozabad
+S24	12	12-Mainpuri
+S24	13	13-Etah
+S24	14	14-Hathras
+S24	15	15-Bareilly
+S24	16	16-Budaun
+S24	17	17-Shahjahanpur
+S24	18	18-Pilibhit
+S24	19	19-Moradabad
+S24	2	2-Muzaffarnagar
+S24	20	20-Rampur
+S24	21	21-Bijnor
+S24	22	22-Amroha
+S24	23	23-Kanpur Nagar
+S24	24	24-Kanpur Dehat
+S24	25	25-Etawah
+S24	26	26-Farrukhabad
+S24	27	27-Kannauj
+S24	28	28-Auraiya
+S24	29	29-Allahabad
+S24	3	3-Meerut
+S24	30	30-Fatehpur
+S24	31	31-Pratapgarh
+S24	32	32-Kaushambi
+S24	33	33-Jhansi
+S24	34	34-Lalitpur
+S24	35	35-Jalaun
+S24	36	36-Hamirpur
+S24	37	37-Mahoba
+S24	38	38-Banda
+S24	39	39-Chitrakoot
+S24	4	4-Ghaziabad
+S24	40	40-Varanasi
+S24	41	41-Jaunpur
+S24	42	42-Ghazipur
+S24	43	43-Chandauli
+S24	44	44-Mirzapur
+S24	45	45-Sonbhadra
+S24	46	46-Sant Ravidas Nagar
+S24	47	47-Azamgarh
+S24	48	48-Mau
+S24	49	49-Ballia
+S24	5	5-Bulandsahar
+S24	50	50-Gorakhpur
+S24	51	51-Maharajganj
+S24	52	52-Deoria
+S24	53	53-Kushinagar
+S24	54	54-Basti
+S24	55	55-Siddharthnagar
+S24	56	56-Sant Kabir Nagar
+S24	57	57-Lucknow
+S24	58	58-Unnao
+S24	59	59-Rae Bareli
+S24	6	6-Gautam Buddha Nagar
+S24	60	60-Sitapur
+S24	61	61-Hardoi
+S24	62	62-Kheri
+S24	63	63-Gonda
+S24	64	64-Baharaich
+S24	65	65-Balrampur
+S24	66	66-Shrawasti
+S24	67	67-Faizabad
+S24	68	68-Sultanpur
+S24	69	69-Barabanki
+S24	7	7-Baghpat
+S24	70	70-Ambedkar Nagar
+S24	71	71-Kasganj
+S24	72	72-Amethi
+S24	73	73-Hapur
+S24	74	74-Shamli
+S24	75	75-Sambhal
+S24	8	8-Agra
+S24	9	9-Aligarh
+S25	1	1-Coochbehar
+S25	10	10-South 24-Parganas
+S25	11	11-Kolkatta South
+S25	12	12-Kolkata North
+S25	14	14-Howrah
+S25	15	15-Hooghly
+S25	16	16-Purbo Medinipur
+S25	17	17-Pashchim Medinipur
+S25	18	18-Purulia
+S25	19	19-Bankura
+S25	2	2-Jalpaiguri
+S25	20	20-Burdwan
+S25	21	21-Birbhum
+S25	3	3-Darjeeling
+S25	4	4-Uttar Dinajpur
+S25	5	5-Dakshin Dinajpur
+S25	6	6-Malda
+S25	7	7-Murshidabad
+S25	8	8-Nadia
+S25	9	9-North 24-Parganas
+S26	1	1-BIJAPUR
+S26	10	10-DURG
+S26	11	11-DHAMTARI
+S26	12	12-BASTAR (JAGDALPUR)
+S26	13	13-BILASPUR
+S26	14	14-MAHASAMUND
+S26	15	15-RAJNANDGAON
+S26	16	16-RAIGARH
+S26	17	17-RAIPUR
+S26	18	18-SURGUJA
+S26	19	19-BALAUDABAAZAAR
+S26	2	2-NARAYANPUR
+S26	20	20-BALOD
+S26	21	21-BALRAMPUR
+S26	22	22-BEMETARA
+S26	23	23-GARIYABAND
+S26	24	24-KONDAGAON
+S26	25	25-MUNGELI
+S26	26	26-SUKAMA
+S26	27	27-SURAJPUR
+S26	3	3-KABIRDHAM
+S26	4	4-UTTAR BASTAR KANKER
+S26	5	5-KORBA
+S26	6	6-KORIA
+S26	7	7-JASHPUR
+S26	8	8-JANJGIR-CHAMPA
+S26	9	9-DAKSHIN BASTAR DANTEWADA
+S27	1	1-Sahebganj
+S27	10	10-Chatra
+S27	11	11-Giridih
+S27	12	12-Bokaro
+S27	13	13-Dhanbad
+S27	14	14-East Singhbhum
+S27	15	15-Saraikela- Kharswan
+S27	16	16-West Singhbhum
+S27	17	17-Ranchi
+S27	18	18-Khunti
+S27	19	19-Gumla
+S27	2	2-Pakur
+S27	20	20-Simdega
+S27	21	21-Lohardaga
+S27	22	22-Latehar
+S27	23	23-Palamu
+S27	24	24-Garhwa
+S27	3	3-Dumka
+S27	4	4-Jamtara
+S27	5	5-Deoghar
+S27	6	6-Godda
+S27	7	7-Kodarma
+S27	8	8-Hazaribagh
+S27	9	9-Ramgarh
+S28	1	1-Hardwar
+S28	10	10-Rudraprayag
+S28	11	11-Tehri Garhwal
+S28	12	12-Pauri Garhwal
+S28	13	13-Dehradun
+S28	2	2-Nainital
+S28	3	3-Almora
+S28	4	4-Udhamsingh Nagar
+S28	5	5-Pithoragarh
+S28	6	6-Bageshwar
+S28	7	7-Champawat
+S28	8	8-Chamoli
+S28	9	9-Uttarkashi
+S29	1	1-Adilabad
+S29	10	10-Khammam
+S29	2	2-Nizamabad
+S29	3	3-Karimnagar
+S29	4	4-Medak
+S29	5	5-Rangareddy
+S29	6	6-Hyderabad
+S29	7	7-Mahabubnagar
+S29	8	8-Nalgonda
+S29	9	9-Warangal
+U01	1	1-North and Middle Andaman
+U01	2	2-South Andaman
+U01	3	3-Nicobar
+U02	1	1-CHANDIGARH
+U03	1	1-Dadra and Nagar Haveli.
+U04	1	1-Daman
+U04	2	2-Diu
+U05	1	1-NORTH WEST
+U05	2	2-NORTH EAST
+U05	3	3-SOUTH
+U05	4	4-CENTRAL
+U05	5	5-SOUTH WEST
+U05	6	6-EAST
+U05	7	7-WEST
+U05	8	8-NORTH
+U05	9	9-NEW DELHI
+U06	1	1-Lakshadweep
+U07	1	1-Pondicherry
+U07	2	2-Karaikal
