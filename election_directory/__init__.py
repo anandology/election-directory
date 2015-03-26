@@ -1,10 +1,11 @@
 """Python Library to interact with the election directory.
 """
 __author__ = "Anand Chitipothu <anandology@gmail.com>"
-__version__ = "0.1"
+__version__ = "0.1.1"
 
 """change notes:
-0.1: first usable version
+0.1.1: fixed a bug in State.find
+0.1.0: first usable version
 """
 
 import os
@@ -43,7 +44,7 @@ class State(object):
 
     @classmethod
     def find(cls, code):
-        return first(s for s in cls.all())
+        return first(s for s in cls.all() if s.code == code)
 
     @classmethod
     def all(cls):
@@ -88,6 +89,9 @@ def test():
     ap = State.find("S01")
     assert ap.name == 'Andhra Pradesh'
     assert '216-Narasaraopet' in [ac.name for ac in ap.get_acs()]
+
+    mh = State.find("S13")
+    assert mh.name == 'Maharashtra'
 
     nrt = ap.get_ac("216")
     assert nrt is not None

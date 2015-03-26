@@ -1,8 +1,9 @@
 from setuptools import setup
+from election_directory import __version__
 
 setup(
     name='election-directory',
-    version='0.1.0',
+    version=__version__,
     description='Library to provide information about assembly constituencies and polling booths of India',
     packages=['election_directory'],
     install_requires=[],
