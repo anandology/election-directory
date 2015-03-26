@@ -1,9 +1,10 @@
 """Python Library to interact with the election directory.
 """
 __author__ = "Anand Chitipothu <anandology@gmail.com>"
-__version__ = "0.1.1"
+__version__ = "0.1.2"
 
 """change notes:
+0.1.2: Aded repr methods
 0.1.1: fixed a bug in State.find
 0.1.0: first usable version
 """
@@ -50,6 +51,9 @@ class State(object):
     def all(cls):
         return [State(code, name) for code, name in _read_tsv("states.tsv")]
 
+    def __repr__(self):
+        return "<State {} - {}>".format(self.code, self.name)
+
 class District(object):
     __slots__ = ["state", "code", "name"]
 
@@ -64,6 +68,9 @@ class District(object):
         return [AssemblyConstituency(self, code, name) 
                 for state, district, code, name in _read_tsv("assembly-constituencies.tsv")
                 if self.state.code == state and self.code == district]
+
+    def __repr__(self):
+        return "<District {}/{} - {}>".format(self.state.code, self.code, self.name)
 
 class AssemblyConstituency(object):
     __slots__ = ["district", "code", "name"]
@@ -81,6 +88,9 @@ class AssemblyConstituency(object):
     def find(cls, state_code, ac_num):
         state = State.find(state_code)
         return state.get_ac(ac_num)
+
+    def __repr__(self):
+        return "<AC {}/{} - {}>".format(self.state.code, self.code, self.name)
 
 def test():
     assert len(State.all()) == 36
